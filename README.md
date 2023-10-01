@@ -1,3 +1,4 @@
 # DashBoard-Data-Analysis
- PowerBI DashBoard for Global SuperStore
-Tableau Dashboard for Customer analysis
+
+1. PowerBI DashBoard for Global SuperStore
+2. Tableau Dashboard for Customer analysis
